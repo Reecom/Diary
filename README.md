@@ -1,4 +1,4 @@
-Dairy
+Diary
 =====
 
-The keydairy(You can write dairy in a few seconds)
+The keydiary(You can write diary in a few seconds)
